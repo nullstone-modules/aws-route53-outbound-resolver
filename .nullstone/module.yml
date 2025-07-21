@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-route53-outbound-resolver
+friendly_name: Route53 Outbound Resolver
+description: Creates an outbound Route53 resolver that allows connection to shared DNS records in another AWS VPC/Account.
+category: block
+subcategory: ""
+provider_types:
+    - aws
+platform: route53
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
